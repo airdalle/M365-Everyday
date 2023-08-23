@@ -1,0 +1,10 @@
+### [Projet de cartographie des données - Asmodée Holding](https://teams.microsoft.com/l/file/7454924F-BA33-40BF-B61A-09929185082A?tenantId=6adf23d8-eabe-44c8-b68a-0b8fb7aacef9&fileType=pptx&objectUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS%2FAVV%2F2021%2FAsmod%C3%A9e%20Holding%2FAsmodee%20-%20Proposition.pptx&baseUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS&serviceName=teams&threadId=19:ba6107932d0343b0a6a1a8ad30736b33@thread.skype&groupId=ded32608-ef93-436b-9ac2-9a97565dc9d9)
+![image.png](/.attachments/image-2eaf20e4-62ca-4c35-8032-9c03a9c291d9.png)
+![image.png](/.attachments/image-b36e087e-4d39-406e-94c2-a435ef697e41.png)
+
+### [Projet de cartographie des données - EFS](https://teams.microsoft.com/l/file/D99D5593-4226-4A09-810E-9D8B175531D7?tenantId=6adf23d8-eabe-44c8-b68a-0b8fb7aacef9&fileType=pptx&objectUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS%2FAVV%2F2021%2FEFS%2FSWORD_IDS_EFS_Donn%C3%A9es.pptx&baseUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS&serviceName=teams&threadId=19:ba6107932d0343b0a6a1a8ad30736b33@thread.skype&groupId=ded32608-ef93-436b-9ac2-9a97565dc9d9)
+
+![image.png](/.attachments/image-750b4950-9c0d-4845-8f9d-5dfefe527450.png)
+
+### [M365 Retention POC - Michelin](https://teams.microsoft.com/l/file/82C3D771-D441-4DED-82FB-A02D12315CF1?tenantId=6adf23d8-eabe-44c8-b68a-0b8fb7aacef9&fileType=pdf&objectUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS%2FAVV%2F2020%2F0_Offres%20en%20cours%2FMichelin%2FP2020-146%20-%20MICHELIN%20-%20M365%20RETENTION%20POC%20-%20V4.pdf&baseUrl=https%3A%2F%2Fswordoffice.sharepoint.com%2Fteams%2FIDS&serviceName=teams&threadId=19:ba6107932d0343b0a6a1a8ad30736b33@thread.skype&groupId=ded32608-ef93-436b-9ac2-9a97565dc9d9)
+![image.png](/.attachments/image-b06e7648-cdc5-4809-9334-1423ce98282a.png)

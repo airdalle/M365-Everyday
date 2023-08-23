@@ -1,0 +1,1 @@
+[Deployment guidance and ECIF investments](https://cloudpartners.transform.microsoft.com/security-deployment-resources)

@@ -1,0 +1,2 @@
+* Un article de Joanne C. Klein sur la question des Adaptive Scope, très complet notamment sur la gestion compliant des sites SharePoint :
+https://joannecklein.com/2021/09/24/adaptive-scope-retention-policy-a-walk-thru/

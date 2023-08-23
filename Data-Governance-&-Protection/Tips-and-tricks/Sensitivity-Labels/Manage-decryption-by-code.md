@@ -1,0 +1,1 @@
+* https://clavinfernandes.wordpress.com/2021/01/13/decrypting-office-365-sensitivity-labels-documents-for-further-processing/

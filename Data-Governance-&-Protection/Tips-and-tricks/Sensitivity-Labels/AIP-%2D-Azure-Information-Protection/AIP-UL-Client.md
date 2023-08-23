@@ -1,0 +1,2 @@
+![image.png](/.attachments/image-65d94ae3-7b7b-4653-bbbf-2d6aba3d5cb7.png)
+https://techcommunity.microsoft.com/t5/security-compliance-and-identity/retirement-notification-for-the-azure-information-protection/ba-p/3791908
