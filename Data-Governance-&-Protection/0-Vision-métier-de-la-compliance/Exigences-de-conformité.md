@@ -1,3 +1,0 @@
-[Key compliance and security considerations for US banking and capital markets](https://docs.microsoft.com/en-us/microsoft-365/solutions/financial-services-secure-collaboration?view=o365-worldwide) : excellent document pour comprendre comment les fonctionnalités Compliance M365 répondent aux besoins en conformité du secteur bancaire et financier
-
-https://docs.microsoft.com/en-us/azure/information-protection/compliance : documentation expliquant comment AIP permet de se mettre en conformité à certains réglementations
