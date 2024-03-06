@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @airdalle
 - 👀 I’m interested in  Microsoft Cloud technologies and solutions, merely in PaaS and SaaS
-- 🌱 I’m currently learning  course to passe the Az-500 certification exam
+- 🌱 I’m currently learning course to pass the SC-300 certification exam
 - 💞️ I’m looking to collaborate on Data Compliance and Data protection through Microsoft 365 Purview Suite
 - 📫 How to reach me :
   - linkedin: https://www.linkedin.com/in/rdalle/
